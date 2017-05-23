@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">4096</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="score">Score : </string>
+    <string name="bestscore">BestScore : </string>
+    <string name="help">HELP</string>
+    <string name="restart">Restart</string>
+    <string name="lowestscore">LowestScore : </string>
+    <string name="understand">点击卸载游戏</string>
+    <string name="no_you_play_penis">不会你玩个叼啊</string>
+    <string name="choose">选择模式</string>
+    <string name="time_mode">限时模式</string>
+    <string name="classical_mode">经典模式</string>
+    <string name="time">Time : </string>
+    <string name="now_time">0</string>
+
+</resources>

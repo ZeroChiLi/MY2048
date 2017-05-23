@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/dialog_l2"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/tvHelp"
+        android:layout_width="fill_parent"
+        android:layout_height="40.0dip"
+        android:gravity="center"
+        android:text="@string/help"
+        android:textColor="#050505"
+        android:layout_marginBottom="50dp"
+        android:textSize="35sp"
+        android:visibility="visible" />
+
+    <TextView
+        android:id="@+id/tvNo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/no_you_play_penis"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/btnUnderstand"
+        style="?android:attr/buttonBarStyle"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/button_skin1"
+        android:gravity="center"
+        android:text="@string/understand"
+        android:textColor="#ff0000"
+        android:textSize="30sp" />
+
+</LinearLayout>

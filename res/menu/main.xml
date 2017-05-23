@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.my2048.MainActivity" >
+
+    <item
+        android:id="@+id/timeMode"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom" 
+        android:title="@string/time_mode"/>
+    <item
+        android:id="@+id/classicalMode"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom" 
+        android:title="@string/classical_mode"/>
+
+</menu>
